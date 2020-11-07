@@ -79,7 +79,6 @@ background(0);
   if(gameState==="end"){
     obstacleGroup.setVelocityXEach(0);
     bananaGroup.setVelocityXEach(0);
-    Score=survivalTime;
   }
   
   //resetting the ground
